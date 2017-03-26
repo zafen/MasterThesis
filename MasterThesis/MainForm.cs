@@ -39,7 +39,7 @@ namespace MasterThesis
             }
             catch (FormatException)
             {
-                MessageBox.Show("Wrong values for Polynom");
+                MessageBox.Show("Wrong input");
             }
 
 
